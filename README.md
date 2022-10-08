@@ -1,5 +1,4 @@
-# Pacman
-Jogo de pacman
+# Jogo de Pacman
 
 Para rodar o jogo, basta baixar o arquivo Pacman-5.0.jar e rodar executando o seguinte comando:
 
